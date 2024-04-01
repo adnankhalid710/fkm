@@ -11,14 +11,14 @@ function App() {
       </tr>
       <tr>
         <td>FK Mobiles Parts. Parts Original Battery, LCD
-Pannels, Original Front Camera
-Back Camera, Charging Ribbons Back GLass
-And Much More Veriety.
-Back Camera, Charging Ribbons Back GLass
-FK Mobile Parts, LB-28
-Star City Mall, Saddar, Abdullah Haroon Rd, Saddar
-KArachi City, Sindh, Pakistan.</td>
-        <td>Maria Anders</td>
+            Pannels, Original Front Camera
+            Back Camera, Charging Ribbons Back GLass
+            And Much More Veriety.
+            Back Camera, Charging Ribbons Back GLass
+            FK Mobile Parts, LB-28
+            Star City Mall, Saddar, Abdullah Haroon Rd, Saddar
+            KArachi City, Sindh, Pakistan.</td>
+        <td>FK-Mobile</td>
         <td>Germany</td>
       </tr>
       <tr>
