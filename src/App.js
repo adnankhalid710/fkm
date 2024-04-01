@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <table>
+      <table border="1">
       <tr>
         <th>Company</th>
         <th>Contact</th>
