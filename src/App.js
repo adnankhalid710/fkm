@@ -10,14 +10,24 @@ function App() {
         <th>Country</th>
       </tr>
       <tr>
-        <td>Alfreds Futterkiste</td>
+        <td>FK Mobiles Parts.</td>
         <td>Maria Anders</td>
         <td>Germany</td>
       </tr>
       <tr>
-        <td>Centro comercial Moctezuma</td>
+        <td>Iphone and Samsung Mobile</td>
         <td>Francisco Chang</td>
         <td>Mexico</td>
+      </tr>
+      <tr>
+        <td> Parts Original Battery, LCD
+Pannels, Original Front Camera
+Back Camera, Charging Ribbons Back GLass
+And Much More Veriety.
+Back Camera, Charging Ribbons Back GLass
+FK Mobile Parts, LB-28
+Star City Mall, Saddar, Abdullah Haroon Rd, Saddar
+KArachi City, Sindh, Pakistan.</td>
       </tr>
 </table>
 
